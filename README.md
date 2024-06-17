@@ -1,1 +1,1 @@
-# XOR.py
+# XOR
